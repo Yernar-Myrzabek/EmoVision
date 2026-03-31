@@ -24,6 +24,7 @@ This project explores **Heuristic-based Computer Vision**. Instead of relying on
    `pip install -r requirements.txt`
 3. Run the application:
    `python main.py`
+4.  "Optimized for Apple Silicon (M3). Runs at high FPS using native OpenCV hardware acceleration."
 
 ## Future Work
 Future iterations will focus on transitioning from heuristic rules to **Support Vector Machines (SVM)** to increase detection accuracy.
